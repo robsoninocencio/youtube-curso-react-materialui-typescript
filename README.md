@@ -4,6 +4,9 @@ npx create-react-app youtube-curso-react-materialui-typescript --template typesc
 yarn add react-router-dom@6
 yarn add @mui/material @emotion/react @emotion/styled
 yarn add @mui/icons-material
+npx eslint --init
+npx prettier --write .
+yarn eslint .
 
 Links:
 Repositório do projeto - https://github.com/lvsouza/youtube-curso-react-materialui-typescript/tree/dace83509e79069234ac74e0605ebce6022f3fff
