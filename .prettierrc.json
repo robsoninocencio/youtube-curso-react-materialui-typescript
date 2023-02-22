@@ -1,5 +1,7 @@
 {
   "singleQuote": true,
   "semi": true,
-  "editorconfig": true
+  "editorconfig": true,
+  "editor.formatOnSave": true,
+  "useTabs": false
 }
