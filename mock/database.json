@@ -1,0 +1,6 @@
+{
+  "pessoas": [
+    { "id": 1, "nome": "Juca", "sobrenome": "Silva" },
+    { "id": 2, "nome": "Juca2", "sobrenome": "Silva2" }
+  ]
+}

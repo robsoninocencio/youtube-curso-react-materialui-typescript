@@ -8,6 +8,10 @@ npx eslint --init
 npx prettier --write .
 yarn eslint .
 
+yarn add -D json-server
+yarn run json-server -w -p 3333 ./mock/database.json
+yarn mock
+
 Links:
 Repositório do projeto - https://github.com/lvsouza/youtube-curso-react-materialui-typescript/tree/dace83509e79069234ac74e0605ebce6022f3fff
 
@@ -16,6 +20,8 @@ Aulas do Projeto - https://www.youtube.com/watch?v=wLH1Vv86I44&list=PL29TaWXah3i
 https://www.devmedia.com.br/react-js-criando-rotas-com-react-router-dom/42901
 
 https://mui.com/material-ui/getting-started/installation/
+
+https://www.npmjs.com/package/json-server
 
 Outros curso no canal:
 ☪️ Curso de estilização no React - https://youtu.be/oUbPkR799fc
