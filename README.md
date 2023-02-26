@@ -12,6 +12,8 @@ yarn add -D json-server
 yarn run json-server -w -p 3333 ./mock/database.json
 yarn mock
 
+yarn add @unform/web @unform/core
+
 Links:
 Repositório do projeto - https://github.com/lvsouza/youtube-curso-react-materialui-typescript/tree/dace83509e79069234ac74e0605ebce6022f3fff
 
