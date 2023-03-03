@@ -110,9 +110,9 @@
     },
     {
       "id": 19,
+      "nomeCompleto": "teste19",
       "email": "teste19@gmail.com",
-      "cidadeId": 1,
-      "nomeCompleto": "teste19"
+      "cidadeId": 1
     },
     {
       "id": 20,
