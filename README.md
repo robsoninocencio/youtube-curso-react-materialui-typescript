@@ -10,6 +10,8 @@ yarn eslint .
 
 yarn add -D json-server
 yarn run json-server -w -p 3333 ./mock/database.json
+
+yarn start
 yarn mock
 
 yarn add @unform/web @unform/core
