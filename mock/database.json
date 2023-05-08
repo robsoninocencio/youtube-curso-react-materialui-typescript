@@ -120,5 +120,39 @@
       "email": "miguel20@gmail.com",
       "cidadeId": "5"
     }
+  ],
+  "cidades": [
+    {
+      "id": 1,
+      "nome": "Porto Alegre"
+    },
+    {
+      "id": 2,
+      "nome": "Novo Hamburgo"
+    },
+    {
+      "nome": "Taquara",
+      "id": 3
+    },
+    {
+      "nome": "Palmitinho",
+      "id": 4
+    },
+    {
+      "nome": "Caxias",
+      "id": 5
+    },
+    {
+      "nome": "Sapucaia do Sul",
+      "id": 6
+    },
+    {
+      "nome": "Tramandaí",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "nome": "Joinville"
+    }
   ]
 }
