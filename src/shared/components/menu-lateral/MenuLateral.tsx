@@ -78,7 +78,7 @@ export const MenuLateral: React.FC<IMenuLateralProps> = ({ children }) => {
           >
             <Avatar
               sx={{ height: theme.spacing(12), width: theme.spacing(12) }}
-              src="https://media.licdn.com/dms/image/C4D03AQG08tztd7CFSg/profile-displayphoto-shrink_200_200/0/1516957222041?e=1681948800&v=beta&t=Hy85Rqef-isbY4UPKSkzzujn7cvVNL8i_Tc2bt9C5rg"
+              src="https://media.licdn.com/dms/image/C4D03AQG08tztd7CFSg/profile-displayphoto-shrink_200_200/0/1516957222041?e=1691020800&v=beta&t=q77AKrR157YwfpKbApEkg8FyTDjRkq6oeZUClJgCMHk"
             />
           </Box>
 
