@@ -1,3 +1,12 @@
+# Para rodar a aplicação
+
+```
+git clone git@github.com:robsoninocencio/youtube-curso-react-materialui-typescript.git
+
+yarn start
+yarn mock
+```
+
 # Comandos
 
 ```
